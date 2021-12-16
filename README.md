@@ -12,13 +12,14 @@ ___
 ##### to add column grids go to - Layout Grid options on the right panel, click on the dotts and choose gric column, after which we can also chose the number of cols, color of grids and its % intensity
 
 ### shapes
-##### 
+##### to create shapes, click on Shapes tool in the toolbar and choose shape
 
 ### import images
-#####
+##### to add images, simply drag-and-drop an image from the folder
 
 ### labeling and grouping
-#####
+##### to group elements, simply select them (mouse + shift), right click and choose group selection
+##### to position an element from the top left corner just add value in X and Y inputs for the selected elem on the right panel
 
 ### text
 #####
