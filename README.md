@@ -22,13 +22,13 @@ ___
 ##### to position an element from the top left corner just add value in X and Y inputs for the selected elem on the right panel
 
 ### text
-#####
+##### to add text, simply click Text tool on toolbar
 
 ### navigation bar
-#####
+##### we can copy text by folding alt + dragging and create a Nav
 
 ### button design
-#####
+##### Drawing a rectangle with text in it, making sure about layer hyerarchy and what shoud be on top to be visible and rounding corners we create a button
 
 ### header title & scaling
 #####
