@@ -31,10 +31,10 @@ ___
 ##### Drawing a rectangle with text in it, making sure about layer hyerarchy and what shoud be on top to be visible and rounding corners we create a button
 
 ### header title & scaling
-#####
+##### we can add uppercase effect on text, more effects option on the text are behind the 3 dotts on the right panel 
 
 ### text additional settings
-#####
+##### we can rescale text element with Rescale tool in the toolbar under move tool
 
 ### hero section & figma layers
 #####
