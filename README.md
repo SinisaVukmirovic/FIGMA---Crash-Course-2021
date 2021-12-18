@@ -59,7 +59,7 @@ ___
 ##### creating a button with auto layout and center text, and a auto layout of grout of buttons with centered layout, so that any change in colors will auto update on all of them 
 
 ### layers toolbar, hide and lock
-#####
+##### lock for layers means they cannot be selected, movified or moved anymore
 
 ### prototype viewer
 #####
