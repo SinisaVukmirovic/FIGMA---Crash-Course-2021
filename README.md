@@ -42,11 +42,8 @@ ___
 ### text line height and spacing
 ##### text line height is also located in the right panel, and the ideal text lineheight is around 1.5 of the font size
 
-### alignment and snapping)
-#####
-
 ### masking with shapes and images
-#####
+##### To use an element as a mask, select both the element and an image, right click in the left panel on the element you want to use as a mask and chose "use as mask" option
 
 ### copying groups and sections
 #####
