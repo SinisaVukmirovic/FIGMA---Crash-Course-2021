@@ -62,7 +62,7 @@ ___
 ##### lock for layers means they cannot be selected, movified or moved anymore
 
 ### prototype viewer
-##### Select the entire design (main frame) and by clicking the Present button (play icon) in the top right, we get a preview of what our design would look like on a computer. 
+##### Select the entire design (main frame) and by clicking the Present button (play icon) in the top right, we get a preview of what our design would look like in a browser. 
 ##### The link to this can be shared with others by clicking the share button and copying link. 
 
 ### frames and pages
