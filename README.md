@@ -44,6 +44,7 @@ ___
 
 ### masking with shapes and images
 ##### To use an element as a mask, select both the element and an image, right click in the left panel on the element you want to use as a mask and chose "use as mask" option
+##### Copying over a mask element also keeps the mask properties on the copied elem, too.
 
 ### color selecting and picking correct hue
 ##### giving opacity to the color by picking color and giving it % to the HUE
