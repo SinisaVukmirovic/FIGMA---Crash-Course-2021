@@ -36,17 +36,11 @@ ___
 ### text additional settings
 ##### we can rescale text element with Rescale tool in the toolbar under move tool
 
-### hero section & figma layers
-#####
-
 ### groups and sections
-#####
-
-### fonts and figma colors
-#####
+##### grouping can be done by selecting ultile elements, and selecting group after right mouse click, or by ctrg + G shortcut
 
 ### text line height and spacing
-#####
+##### text line height is also located in the right panel, and the ideal text lineheight is around 1.5 of the font size
 
 ### alignment and snapping)
 #####
