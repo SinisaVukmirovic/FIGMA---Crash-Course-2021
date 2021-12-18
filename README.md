@@ -52,14 +52,11 @@ ___
 ### autolayout
 ##### to autolayout multiple elements, select two or more elements and click on the + of autolayout option in the right panel. There are many options there, gap between elems, elems,layout... Every change is auto updated!
 
-### footer
-#####
-
 ### SVG color and overlay edits
-#####
+##### to change the text color in an SVG chose color under "Selected color" in the right panel. Fill changes the background of the svg
 
 ### auto layout menu footer
-#####
+##### creating a button with auto layout and center text, and a auto layout of grout of buttons with centered layout, so that any change in colors will auto update on all of them 
 
 ### layers toolbar, hide and lock
 #####
