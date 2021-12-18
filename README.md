@@ -49,11 +49,9 @@ ___
 ### color selecting and picking correct hue
 ##### giving opacity to the color by picking color and giving it % to the HUE
 
-### testimonial section
-#####
-
 ### autolayout
-#####
+##### to autolayout multiple elements, select two or more elements and click on the + of autolayout option in the right panel. There are many options there, gap between elems, elems,layout... Every change is auto updated!
+
 
 ### auto layout options
 #####
