@@ -67,16 +67,14 @@ ___
 ##### The link to this can be shared with others by clicking the share button and copying link. 
 
 ### prototype interactions
-##### to create a prototype, select the page from which you want to start and click on "Prototype" tab in the top right, choose protype option ()
+##### to create a prototype, select the page from which you want to start and click on "Prototype" tab in the top right, choose protype option.
+##### EXAMPLE - select one of the links in the navbar, PLUS sigh appears next to it, click on it and drag to where you want it to go in prototype after the "click" interaction with that link
 
 ### prototype interaction navigation to page
 ##### the prototype play button appears left next to a page, indicating a start page of the prototype, by moving it next to other pages we inficate on which page we want the prototypeing to start
 
-### share test and preview prototypes
-#####
-
 ### export pages
-#####
+##### expoting pages or elements as png, jpg, svg and png - scroll the right panel all the way down to the export tool 
 
 ### export groups or sections
-#####
+##### select a single section to export it
