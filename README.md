@@ -10,6 +10,7 @@ ___
 
 ### grid columns and rows
 ##### to add column grids go to - Layout Grid options on the right panel, click on the dotts and choose gric column, after which we can also chose the number of cols, color of grids and its % intensity
+##### toggling visibility of the grid rows and cols is on the right panel - grid layout
 
 ### shapes
 ##### to create shapes, click on Shapes tool in the toolbar and choose shape
@@ -65,14 +66,11 @@ ___
 ##### Select the entire design (main frame) and by clicking the Present button (play icon) in the top right, we get a preview of what our design would look like in a browser. 
 ##### The link to this can be shared with others by clicking the share button and copying link. 
 
-### frames and pages
-#####
-
 ### prototype interactions
-#####
+##### to create a prototype, select the page from which you want to start and click on "Prototype" tab in the top right, choose protype option ()
 
 ### prototype interaction navigation to page
-#####
+##### the prototype play button appears left next to a page, indicating a start page of the prototype, by moving it next to other pages we inficate on which page we want the prototypeing to start
 
 ### share test and preview prototypes
 #####
