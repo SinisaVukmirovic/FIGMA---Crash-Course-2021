@@ -1,6 +1,7 @@
 # FIGMA
 ## Figma Crash Course 2021
-[Video Tutorial](https://www.youtube.com/watch?v=lg7w3Ntfqy0 "Figma Crash Course 2021")
+
+[Prototype link](https://www.figma.com/file/fk5wXmSnQKcFHdjLCWT6o5/Figma-Crash-Course-2021?node-id=0%3A1 "Figma Crash course 2021")
 ___
 
 ### Figma design files can be shared by clicking the SHare btn in the top right and copying the share link
