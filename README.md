@@ -78,3 +78,6 @@ ___
 
 ### export groups or sections
 ##### select a single section to export it
+
+### To link elems to external links, select elem and press CTRL + K and type in the URL
+#### External links in Figma open in new teb
